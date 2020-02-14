@@ -1,3 +1,4 @@
+# SchoolDiary
 ### Project Setup
 Platform :<emsp>android</br>
 Languages :<emsp>java, xml</br>
