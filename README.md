@@ -1,4 +1,4 @@
-# SchoolDiary
+# SchoolDiaries
 ### Project Setup
 Platform  : android</br>
 Languages : java, xml</br>
