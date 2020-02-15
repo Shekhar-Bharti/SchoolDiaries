@@ -1,8 +1,8 @@
 # SchoolDiary
 ### Project Setup
-Platform : android</br>
-Languages: java, xml</br>
-IDE      : android studio</br>
+Platform  : android</br>
+Languages : java, xml</br>
+IDE       : android studio</br>
 ### Android app which supports a parent-teacher 2-way communication that allows parents to monitor their kids activities in school.
 Childs performance in school highly depends on how their parents are involved in their education.</br> 
 This App supports a parent-teacher 2-way communication that allows parents to monitor their kids performance in school on the daily basis and supports a system that helps to develop a healthy parent-teacher relationship in a great way to improve their child’s performance in school.</br>
